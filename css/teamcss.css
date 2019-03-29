@@ -1,0 +1,19 @@
+/*백그라운드*/
+body {
+    background-color: black;
+}
+/*폰트값*/
+p {
+    color: black;
+}
+/*슬라이드*/
+div.bd-example {
+    margin: auto;
+    width: 750px;
+    height: 1000px;
+    margin-top: 200px;
+}
+/*이미지*/
+div.carousel-inner > div.carousel-item #nike{
+
+}
