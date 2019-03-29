@@ -6,14 +6,24 @@ body {
 p {
     color: black;
 }
+h5 {
+    color : black;
+}
+/*첫페이지*/
+div.intro {
+
+}
 /*슬라이드*/
 div.bd-example {
     margin: auto;
-    width: 750px;
-    height: 1000px;
+    width: 35%;
+    height: 20%;
     margin-top: 200px;
+    margin-bottom: 200px;
+    border: solid black 1px;
 }
 /*이미지*/
 div.carousel-inner > div.carousel-item #nike{
-
+    width: 65%;
+    height: 50%;
 }
