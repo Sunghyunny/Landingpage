@@ -1,0 +1,44 @@
+body.default {
+    background-color: rgba(255,184,195,0.54);
+    font-family: 'Noto Sans KR', sans-serif;
+}
+@font {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+/*contact us*/
+div.first > p {
+    margin-top: 130px;
+    margin-left: 220px;
+    font-size: 50px;
+    width: 270px;
+    height: 70px;
+}
+/*container*/
+div.row {
+    margin-left: 200px;
+    margin-top: 130px;
+    height: 432px;
+    width: 80%;
+}
+/*map*/
+div.map {
+    width: 563px;
+    height: 432px;
+}
+/*pr*/
+div.pr {
+    display: inline;
+    width: 250px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: 150px;
+    color: black;
+    font-size: 55px;
+}
+/*info*/
+div.info {
+    display: block;
+    height: 500px;
+    margin-top: 320px;
+    margin-left: 140px;
+}
